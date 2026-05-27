@@ -38,10 +38,10 @@ function Navbar() {
           </Link>
 
           <Link
-            to="/todo"
+            to="/overview"
             className="hover:text-cyan-400 transition duration-300"
           >
-            Todo
+            Overview
           </Link>
 
           <Link
@@ -96,11 +96,11 @@ function Navbar() {
           </Link>
 
           <Link
-            to="/todo"
+            to="/overview"
             onClick={() => setOpen(false)}
             className="hover:text-cyan-400"
           >
-            Todo
+            Overview
           </Link>
 
           <Link
