@@ -31,10 +31,10 @@ function Navbar() {
           </Link>
 
           <Link
-            to="/counter"
+            to="/concepts"
             className="hover:text-cyan-400 transition duration-300"
           >
-            Counter
+            Concepts
           </Link>
 
           <Link
@@ -88,11 +88,11 @@ function Navbar() {
           </Link>
 
           <Link
-            to="/counter"
+            to="/concepts"
             onClick={() => setOpen(false)}
             className="hover:text-cyan-400"
           >
-            Counter
+            Concepts
           </Link>
 
           <Link
