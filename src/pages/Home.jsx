@@ -14,7 +14,7 @@ function Home() {
           Context API, and more.
         </p>
 
-        <button className="bg-cyan-500 hover:bg-cyan-600 text-white px-6 py-3 rounded-lg text-lg font-semibold transition duration-300">
+        <button className="bg-red-500 hover:bg-cyan-600 text-white px-6 py-3 rounded-lg text-lg font-semibold transition duration-300">
           Explore Concepts
         </button>
 
